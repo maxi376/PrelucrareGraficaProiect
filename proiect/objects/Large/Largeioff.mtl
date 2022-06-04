@@ -1,0 +1,153 @@
+# Blender MTL File: 'proiect orasel.blend'
+# Material Count: 14
+
+newmtl Black_Glass
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Black_Glossy
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Glass
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Mat_0
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Mad Max\\Downloads\\GRAFICA\\Castle\\texture_0_6195987693227547908.png
+
+newmtl Mat_0.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd E:\\Faculta an 3 sem I\\Prelucrare Grafica\\PROIECT\\fckinscena\\Residential building\\texture_0_6195987693227547908.png
+
+newmtl Mat_0.004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd E:\\Faculta an 3 sem I\\Prelucrare Grafica\\PROIECT\\fckinscena\\Convenience Store\\texture_0_6195987693227547908.png
+
+newmtl Mat_0.005
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd E:\\Faculta an 3 sem I\\Prelucrare Grafica\\PROIECT\\fckinscena\\Large Hospital\\texture_0_6195987693227547908.png
+
+newmtl Mat_0.006
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd E:\\Faculta an 3 sem I\\Prelucrare Grafica\\PROIECT\\fckinscena\\Multi-story School\\texture_0_6195987693227547908.png
+
+newmtl Mat_0.007
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd E:\\Faculta an 3 sem I\\Prelucrare Grafica\\PROIECT\\fckinscena\\Office Building\\texture_0_6195987693227547908.png
+
+newmtl Mat_0.009
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd E:\\Faculta an 3 sem I\\Prelucrare Grafica\\PROIECT\\fckinscena\\Tall skyscrapers 2\\texture_0_6195987693227547908.png
+
+newmtl Mat_0.011
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd E:\\Faculta an 3 sem I\\Prelucrare Grafica\\PROIECT\\fckinscena\\Classic Fire Station\\texture_0_6195987693227547908.png
+
+newmtl Mat_1
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd E:\\Faculta an 3 sem I\\Prelucrare Grafica\\PROIECT\\fckinscena\\Residential building\\texture_5_11563080508590297124.png
+
+newmtl Mat_1.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd E:\\Faculta an 3 sem I\\Prelucrare Grafica\\PROIECT\\fckinscena\\Tall skyscrapers 2\\texture_5_11563080508590297124.png
+
+newmtl grass.001
+Ns 500.000001
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd GrassSamp1.jpg
